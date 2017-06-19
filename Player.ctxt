@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ movement()
+comment2.text=\r\n\ movements\ allows\ player\ to\ move\ by\ pressing\ the\ right\ keys\ and\ changes\ the\ image\ to\ the\ side\ you\ are\ looking\ for.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment3.params=
+comment3.target=void\ dash()
+comment3.text=\r\n\ dash\ teleports\ the\ player\ forward\ or\ backward\ depending\ where\ the\ player\ is\ looking\ and\ changes\ it's\ picture.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=void\ checkCollision()
+comment4.text=\r\n\ checkCollision\ checks\ for\ anything\ that\ player\ is\ touching\ and\ if\ so,\ makes\ the\ changed\ to\ the\ world\ accordingly.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment5.params=
+comment5.target=void\ fall()
+comment5.text=\r\n\ fall\ Allows\ this\ world\ to\ have\ gravity\ and\ actually\ accelerate\ when\ falling.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment6.params=
+comment6.target=void\ flying()
+comment6.text=\r\n\ flying\ allows\ player\ to\ acceletare\ upwards\ when\ jumping\ on\ a\ specific\ block.\r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=8
